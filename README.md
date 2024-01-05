@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for help with **React.js, Javascript, Node.js**
+- 🤝 Ask me if You are looking for help with **React.js, Javascript, Node.js, GIT**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <h3 align="left">Connect with me:</h3>
