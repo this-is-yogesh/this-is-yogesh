@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Singh</h1>
 <h3 align="center">A Curious Full Stack Developer who is passionate about turning ideas into code.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 - 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **Next.js**
@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **Go Lang**
 
 - 💬 Ask me about **React.js, Javascript, Node.js**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 - 📫 How to reach me **ayogesh1214@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
