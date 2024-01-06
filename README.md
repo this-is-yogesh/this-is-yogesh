@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Go Lang**
 
-- 💬 Ask me about **eact.js, Javascript, Node.js**
+- 💬 Ask me about **React.js, Javascript, Node.js**
 
 - 📫 How to reach me **ayogesh1214@gmail.com**
 
